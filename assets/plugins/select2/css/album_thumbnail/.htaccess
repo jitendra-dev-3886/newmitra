@@ -1,0 +1,7 @@
+Options -Indexes
+
+DirectoryIndex faq03_privacy.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine off
+</IfModule>

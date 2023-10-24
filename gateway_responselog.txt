@@ -1,0 +1,635 @@
+
+
+GUID - 1656421195================================================================ 
+RESPONSE - ""
+
+
+
+GUID - 1656421549================================================================ 
+Callback Get Param -  TRANS ID|| CUS ID 
+
+STATUS RESPONSE - ""
+
+
+
+GUID - 2022-06-29 09:52:26================================================================ 
+Callback Get Param -  TRANS ID|| CUS ID 
+
+STATUS RESPONSE - {"status":false,"msg":"Record not found","data":[]}
+
+
+
+GUID - 2022-06-29 09:53:42================================================================ 
+Callback Get Param -  TRANS ID|| CUS ID 
+
+STATUS RESPONSE - {"status":false,"msg":"Record not found","data":[]}
+
+
+
+GUID - 2022-06-29 09:54:06================================================================ 
+Callback Get Param -  TRANS ID08080|| CUS ID 223
+
+STATUS RESPONSE - {"status":false,"msg":"Record not found","data":[]}
+
+
+
+GUID - 2022-06-29 10:18:05================================================================ 
+Callback Get Param -  TRANS ID5054250690|| CUS ID 305?client_txn_id=5054250690
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39561512,"customer_vpa":"7798469547@paytm","amount":1,"client_txn_id":"5054250690","customer_name":"mahesh","customer_email":"ma@gmail.com","customer_mobile":"7798469547","p_info":"upi gateway","upi_txn_id":"218014136018","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5054250690&cus_id=305","txnAt":"2022-06-29","createdAt":"2022-06-29T04:47:09.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 10:21:48================================================================ 
+Callback Get Param -  TRANS ID3819432267|| CUS ID 305?client_txn_id=3819432267
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39561560,"customer_vpa":"","amount":1,"client_txn_id":"3819432267","customer_name":"mahesh","customer_email":"ma@gmail.com","customer_mobile":"7798469547","p_info":"upi gateway","upi_txn_id":"218059454009","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=3819432267&cus_id=305","txnAt":"2022-06-29","createdAt":"2022-06-29T04:50:36.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 10:32:02================================================================ 
+Callback Get Param -  TRANS ID2558469370|| CUS ID 174?client_txn_id=2558469370
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39561693,"customer_vpa":"","amount":1,"client_txn_id":"2558469370","customer_name":"sonoo","customer_email":"sonuprajapatidibi@gmail.com","customer_mobile":"9675401875","p_info":"UPI GATEWAY","upi_txn_id":"218073154960","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2558469370&cus_id=174","txnAt":"2022-06-29","createdAt":"2022-06-29T05:00:58.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 10:56:33================================================================ 
+Callback Get Param -  TRANS ID8937127341|| CUS ID 82?client_txn_id=8937127341
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39561936,"customer_vpa":"infoeasypayall-1@okicici","amount":1,"client_txn_id":"8937127341","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218023486539","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=8937127341&cus_id=82","txnAt":"2022-06-29","createdAt":"2022-06-29T05:25:37.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 10:57:38================================================================ 
+Callback Get Param -  TRANS ID7567395652|| CUS ID 82?client_txn_id=7567395652
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39561942,"customer_vpa":"","amount":1,"client_txn_id":"7567395652","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218012449719","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7567395652&cus_id=82","txnAt":"2022-06-29","createdAt":"2022-06-29T05:26:42.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 13:03:02================================================================ 
+Callback Get Param -  TRANS ID5085975982|| CUS ID 82?client_txn_id=5085975982
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39563021,"customer_vpa":"infoeasypayall-1@okicici","amount":100,"client_txn_id":"5085975982","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218067791769","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5085975982&cus_id=82","txnAt":"2022-06-29","createdAt":"2022-06-29T07:32:06.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 13:04:07================================================================ 
+Callback Get Param -  TRANS ID6331688584|| CUS ID 82?client_txn_id=6331688584
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39563036,"customer_vpa":"9690764506@paytm","amount":1,"client_txn_id":"6331688584","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218023289407","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6331688584&cus_id=82","txnAt":"2022-06-29","createdAt":"2022-06-29T07:33:11.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 13:10:46================================================================ 
+Callback Get Param -  TRANS ID7383552672|| CUS ID 82?client_txn_id=7383552672
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39563097,"customer_vpa":"infoeasypayall-1@okicici","amount":1,"client_txn_id":"7383552672","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218027392474","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7383552672&cus_id=82","txnAt":"2022-06-29","createdAt":"2022-06-29T07:39:48.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 13:41:51================================================================ 
+Callback Get Param -  TRANS ID2435012100|| CUS ID 82?client_txn_id=2435012100
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39563329,"customer_vpa":"9690764506@paytm","amount":1,"client_txn_id":"2435012100","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218025730438","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2435012100&cus_id=82","txnAt":"2022-06-29","createdAt":"2022-06-29T08:11:00.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 23:25:44================================================================ 
+Callback Get Param -  TRANS ID2568841264|| CUS ID 82?client_txn_id=2568841264
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39568302,"customer_vpa":"","amount":1,"client_txn_id":"2568841264","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218019288392","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2568841264&cus_id=82","txnAt":"2022-06-29","createdAt":"2022-06-29T17:54:46.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-29 23:28:00================================================================ 
+Callback Get Param -  TRANS ID6372704273|| CUS ID 82?client_txn_id=6372704273
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39568308,"customer_vpa":"","amount":1,"client_txn_id":"6372704273","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218071057998","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6372704273&cus_id=82","txnAt":"2022-06-29","createdAt":"2022-06-29T17:57:03.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-30 07:06:22================================================================ 
+Callback Get Param -  TRANS ID2829075505|| CUS ID 82?client_txn_id=2829075505
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39568614,"customer_vpa":"","amount":6,"client_txn_id":"2829075505","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218141898881","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2829075505&cus_id=82","txnAt":"2022-06-30","createdAt":"2022-06-30T01:35:24.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-30 17:11:32================================================================ 
+Callback Get Param -  TRANS ID2509883807|| CUS ID 335?client_txn_id=2509883807
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39573778,"customer_vpa":"7217528915@paytm","amount":1,"client_txn_id":"2509883807","customer_name":"vishal","customer_email":"vishalsharma2062445@gmail.com","customer_mobile":"7217528915","p_info":"UPI GATEWAY","upi_txn_id":"218140017018","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2509883807&cus_id=335","txnAt":"2022-06-30","createdAt":"2022-06-30T11:40:37.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-30 17:20:25================================================================ 
+Callback Get Param -  TRANS ID7159461616|| CUS ID 250?client_txn_id=7159461616
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39573910,"customer_vpa":"","amount":1300,"client_txn_id":"7159461616","customer_name":"Ankit Gupta","customer_email":"ankitkumar969024@gmail.com","customer_mobile":"9690245715","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7159461616&cus_id=250","txnAt":"2022-06-30","createdAt":"2022-06-30T11:50:08.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-06-30 19:37:26================================================================ 
+Callback Get Param -  TRANS ID3635425779|| CUS ID 335?client_txn_id=3635425779
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39575917,"customer_vpa":"vishalsharma2062445-1@okaxis","amount":18,"client_txn_id":"3635425779","customer_name":"vishal","customer_email":"vishalsharma2062445@gmail.com","customer_mobile":"7217528915","p_info":"UPI GATEWAY","upi_txn_id":"218114946716","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=3635425779&cus_id=335","txnAt":"2022-06-30","createdAt":"2022-06-30T14:06:32.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 08:36:22================================================================ 
+Callback Get Param -  TRANS ID1831014957|| CUS ID 72?client_txn_id=1831014957
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39578772,"customer_vpa":"","amount":200,"client_txn_id":"1831014957","customer_name":"Ankul kumar","customer_email":"ankulk1234@gmail.com","customer_mobile":"9058183192","p_info":"UPI GATEWAY","upi_txn_id":"218273907904","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=1831014957&cus_id=72","txnAt":"2022-07-01","createdAt":"2022-07-01T03:05:04.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 08:46:59================================================================ 
+Callback Get Param -  TRANS ID7651728823|| CUS ID 250?client_txn_id=7651728823
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39578874,"customer_vpa":"","amount":4000,"client_txn_id":"7651728823","customer_name":"Ankit Gupta","customer_email":"ankitkumar969024@gmail.com","customer_mobile":"9690245715","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7651728823&cus_id=250","txnAt":"2022-07-01","createdAt":"2022-07-01T03:16:38.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 11:11:27================================================================ 
+Callback Get Param -  TRANS ID1338206462|| CUS ID 250?client_txn_id=1338206462
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39580480,"customer_vpa":"","amount":900,"client_txn_id":"1338206462","customer_name":"Ankit Gupta","customer_email":"ankitkumar969024@gmail.com","customer_mobile":"9690245715","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=1338206462&cus_id=250","txnAt":"2022-07-01","createdAt":"2022-07-01T05:37:15.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 11:12:29================================================================ 
+Callback Get Param -  TRANS ID7729356257|| CUS ID 17?client_txn_id=7729356257
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39580530,"customer_vpa":"infoeasypayall-1@okicici","amount":50,"client_txn_id":"7729356257","customer_name":"dheerendra tiwari","customer_email":"dheerendrakaushal@gmail.com","customer_mobile":"9690764506","p_info":"UPI GATEWAY","upi_txn_id":"218210835447","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7729356257&cus_id=17","txnAt":"2022-07-01","createdAt":"2022-07-01T05:39:57.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 11:26:34================================================================ 
+Callback Get Param -  TRANS ID8846607802|| CUS ID 82?client_txn_id=8846607802
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39580741,"customer_vpa":"9690764506@icici","amount":100,"client_txn_id":"8846607802","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218243769778","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=8846607802&cus_id=82","txnAt":"2022-07-01","createdAt":"2022-07-01T05:55:39.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 12:23:06================================================================ 
+Callback Get Param -  TRANS ID7283922790|| CUS ID 174?client_txn_id=7283922790
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581267,"customer_vpa":"","amount":1,"client_txn_id":"7283922790","customer_name":"sonoo","customer_email":"sonuprajapatidibi@gmail.com","customer_mobile":"9675401875","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7283922790&cus_id=174","txnAt":"2022-07-01","createdAt":"2022-07-01T06:49:43.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 12:41:00================================================================ 
+Callback Get Param -  TRANS ID2358779364|| CUS ID 82?client_txn_id=2358779364
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581443,"customer_vpa":"infoeasypayall-1@okicici","amount":200,"client_txn_id":"2358779364","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218218037536","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2358779364&cus_id=82","txnAt":"2022-07-01","createdAt":"2022-07-01T07:10:01.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 12:41:29================================================================ 
+Callback Get Param -  TRANS ID7521200675|| CUS ID 82?client_txn_id=7521200675
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581449,"customer_vpa":"","amount":100,"client_txn_id":"7521200675","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7521200675&cus_id=82","txnAt":"2022-07-01","createdAt":"2022-07-01T07:11:07.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 12:46:01================================================================ 
+Callback Get Param -  TRANS ID4774414114|| CUS ID 82?client_txn_id=4774414114
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581489,"customer_vpa":"infoeasypayall-1@okicici","amount":1,"client_txn_id":"4774414114","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218259338750","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=4774414114&cus_id=82","txnAt":"2022-07-01","createdAt":"2022-07-01T07:15:38.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 12:47:01================================================================ 
+Callback Get Param -  TRANS ID|| CUS ID 
+
+STATUS RESPONSE - {"status":false,"msg":"Record not found","data":[]}
+
+
+
+GUID - 2022-07-01 12:47:20================================================================ 
+Callback Get Param -  TRANS ID|| CUS ID 
+
+STATUS RESPONSE - {"status":false,"msg":"Record not found","data":[]}
+
+
+
+GUID - 2022-07-01 12:47:58================================================================ 
+Callback Get Param -  TRANS ID8916055611|| CUS ID 82?client_txn_id=8916055611
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581499,"customer_vpa":"9690764506@paytm","amount":1,"client_txn_id":"8916055611","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218221272453","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=8916055611&cus_id=82","txnAt":"2022-07-01","createdAt":"2022-07-01T07:17:03.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 12:49:41================================================================ 
+Callback Get Param -  TRANS ID2871201401|| CUS ID 82?client_txn_id=2871201401
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581505,"customer_vpa":"infoeasypayall-1@okicici","amount":10,"client_txn_id":"2871201401","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218232639027","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2871201401&cus_id=82","txnAt":"2022-07-01","createdAt":"2022-07-01T07:18:46.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 12:51:35================================================================ 
+Callback Get Param -  TRANS ID5194004539|| CUS ID 82?client_txn_id=5194004539
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581513,"customer_vpa":"infoeasypayall-1@okicici","amount":2,"client_txn_id":"5194004539","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218278736345","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5194004539&cus_id=82","txnAt":"2022-07-01","createdAt":"2022-07-01T07:20:43.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 13:08:25================================================================ 
+Callback Get Param -  TRANS ID4320365547|| CUS ID 174?client_txn_id=4320365547
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581556,"customer_vpa":"","amount":1,"client_txn_id":"4320365547","customer_name":"sonoo","customer_email":"sonuprajapatidibi@gmail.com","customer_mobile":"9675401875","p_info":"UPI GATEWAY","upi_txn_id":"218222341609","status":"success","remark":"Transaction Timeout.","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=4320365547&cus_id=174","txnAt":"2022-07-01","createdAt":"2022-07-01T07:27:13.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 13:15:50================================================================ 
+Callback Get Param -  TRANS ID6822169491|| CUS ID 104?client_txn_id=6822169491
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581682,"customer_vpa":"7535972426@paytm","amount":1,"client_txn_id":"6822169491","customer_name":"Rahul kumar","customer_email":"rahulvarma065@gmail.com","customer_mobile":"8192930354","p_info":"UPI GATEWAY","upi_txn_id":"218223100063","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6822169491&cus_id=104","txnAt":"2022-07-01","createdAt":"2022-07-01T07:44:58.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 13:18:09================================================================ 
+Callback Get Param -  TRANS ID3567832301|| CUS ID 82?client_txn_id=3567832301
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581696,"customer_vpa":"9690764506@paytm","amount":1,"client_txn_id":"3567832301","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218223237398","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=3567832301&cus_id=82","txnAt":"2022-07-01","createdAt":"2022-07-01T07:47:12.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 13:40:41================================================================ 
+Callback Get Param -  TRANS ID6901240365|| CUS ID 335?client_txn_id=6901240365
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39581881,"customer_vpa":"vishalsharma2062445-1@okaxis","amount":99,"client_txn_id":"6901240365","customer_name":"vishal","customer_email":"vishalsharma2062445@gmail.com","customer_mobile":"7217528915","p_info":"UPI GATEWAY","upi_txn_id":"218228909428","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6901240365&cus_id=335","txnAt":"2022-07-01","createdAt":"2022-07-01T08:09:45.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 13:59:30================================================================ 
+Callback Get Param -  TRANS ID6730686008|| CUS ID 82?client_txn_id=6730686008
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39582042,"customer_vpa":"","amount":1,"client_txn_id":"6730686008","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218217560384","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6730686008&cus_id=82","txnAt":"2022-07-01","createdAt":"2022-07-01T08:28:34.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 15:05:29================================================================ 
+Callback Get Param -  TRANS ID6537486709|| CUS ID 17?client_txn_id=6537486709
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39582531,"customer_vpa":"infoeasypayall-1@okicici","amount":10,"client_txn_id":"6537486709","customer_name":"dheerendra tiwari","customer_email":"dheerendrakaushal@gmail.com","customer_mobile":"9690764506","p_info":"UPI GATEWAY","upi_txn_id":"218297742469","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6537486709&cus_id=17","txnAt":"2022-07-01","createdAt":"2022-07-01T09:34:34.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 16:25:44================================================================ 
+Callback Get Param -  TRANS ID4089917915|| CUS ID 17?client_txn_id=4089917915
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39583054,"customer_vpa":"","amount":1,"client_txn_id":"4089917915","customer_name":"dheerendra tiwari","customer_email":"dheerendrakaushal@gmail.com","customer_mobile":"9690764506","p_info":"UPI GATEWAY","upi_txn_id":"218275171103","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=4089917915&cus_id=17","txnAt":"2022-07-01","createdAt":"2022-07-01T10:54:48.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 18:25:59================================================================ 
+Callback Get Param -  TRANS ID8470491271|| CUS ID 17?client_txn_id=8470491271
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39584280,"customer_vpa":"9690764506@paytm","amount":2,"client_txn_id":"8470491271","customer_name":"dheerendra tiwari","customer_email":"dheerendrakaushal@gmail.com","customer_mobile":"9690764506","p_info":"UPI GATEWAY","upi_txn_id":"218253302866","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=8470491271&cus_id=17","txnAt":"2022-07-01","createdAt":"2022-07-01T12:55:02.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 20:27:14================================================================ 
+Callback Get Param -  TRANS ID6888331995|| CUS ID 36?client_txn_id=6888331995
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39585934,"customer_vpa":"","amount":180,"client_txn_id":"6888331995","customer_name":"Prabhakar","customer_email":"palprabhakar7@gmail.com","customer_mobile":"8791497540","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6888331995&cus_id=36","txnAt":"2022-07-01","createdAt":"2022-07-01T14:56:13.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-01 20:28:03================================================================ 
+Callback Get Param -  TRANS ID4904322642|| CUS ID 36?client_txn_id=4904322642
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39585951,"customer_vpa":"","amount":180,"client_txn_id":"4904322642","customer_name":"Prabhakar","customer_email":"palprabhakar7@gmail.com","customer_mobile":"8791497540","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=4904322642&cus_id=36","txnAt":"2022-07-01","createdAt":"2022-07-01T14:57:21.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-02 07:49:14================================================================ 
+Callback Get Param -  TRANS ID2364736085|| CUS ID 72?client_txn_id=2364736085
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39587296,"customer_vpa":"","amount":200,"client_txn_id":"2364736085","customer_name":"Ankul kumar","customer_email":"ankulk1234@gmail.com","customer_mobile":"9058183192","p_info":"UPI GATEWAY","upi_txn_id":"218376030412","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2364736085&cus_id=72","txnAt":"2022-07-02","createdAt":"2022-07-02T02:18:32.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-02 08:02:25================================================================ 
+Callback Get Param -  TRANS ID1031189285|| CUS ID 124?client_txn_id=1031189285
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39587377,"customer_vpa":"sarveshyadav9557@okhdfcbank","amount":180,"client_txn_id":"1031189285","customer_name":"Sarvesh yadav ipl","customer_email":"sarveshyadav9557@gmail.com","customer_mobile":"9557807199","p_info":"UPI GATEWAY","upi_txn_id":"218307497095","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=1031189285&cus_id=124","txnAt":"2022-07-02","createdAt":"2022-07-02T02:31:29.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-02 08:17:38================================================================ 
+Callback Get Param -  TRANS ID5516345895|| CUS ID 82?client_txn_id=5516345895
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39587466,"customer_vpa":"infoeasypayall-1@okicici","amount":100,"client_txn_id":"5516345895","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218389757523","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5516345895&cus_id=82","txnAt":"2022-07-02","createdAt":"2022-07-02T02:46:40.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-02 11:16:03================================================================ 
+Callback Get Param -  TRANS ID8061014987|| CUS ID 337?client_txn_id=8061014987
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39589414,"customer_vpa":"","amount":5,"client_txn_id":"8061014987","customer_name":"Ankit ","customer_email":"ankitgupta39482@gmail.com","customer_mobile":"7668493876","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=8061014987&cus_id=337","txnAt":"2022-07-02","createdAt":"2022-07-02T05:45:12.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-02 11:16:58================================================================ 
+Callback Get Param -  TRANS ID9362312065|| CUS ID 337?client_txn_id=9362312065
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39589424,"customer_vpa":"","amount":10,"client_txn_id":"9362312065","customer_name":"Ankit ","customer_email":"ankitgupta39482@gmail.com","customer_mobile":"7668493876","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=9362312065&cus_id=337","txnAt":"2022-07-02","createdAt":"2022-07-02T05:46:09.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-02 12:18:21================================================================ 
+Callback Get Param -  TRANS ID9255720092|| CUS ID 124?client_txn_id=9255720092
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39590091,"customer_vpa":"sarveshyadav9557@okhdfcbank","amount":650,"client_txn_id":"9255720092","customer_name":"Sarvesh yadav ipl","customer_email":"sarveshyadav9557@gmail.com","customer_mobile":"9557807199","p_info":"UPI GATEWAY","upi_txn_id":"218312344452","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=9255720092&cus_id=124","txnAt":"2022-07-02","createdAt":"2022-07-02T06:47:18.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-02 16:09:28================================================================ 
+Callback Get Param -  TRANS ID2551896717|| CUS ID 250?client_txn_id=2551896717
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39591843,"customer_vpa":"","amount":500,"client_txn_id":"2551896717","customer_name":"Ankit Gupta","customer_email":"ankitkumar969024@gmail.com","customer_mobile":"9690245715","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2551896717&cus_id=250","txnAt":"2022-07-02","createdAt":"2022-07-02T10:38:59.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-02 22:16:26================================================================ 
+Callback Get Param -  TRANS ID6983972273|| CUS ID 211?client_txn_id=6983972273
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39595618,"customer_vpa":"9084315785@paytm","amount":250,"client_txn_id":"6983972273","customer_name":"Mohammad Rohid","customer_email":"rohid901@gmail.com","customer_mobile":"9084315785","p_info":"UPI GATEWAY","upi_txn_id":"218386699237","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6983972273&cus_id=211","txnAt":"2022-07-02","createdAt":"2022-07-02T16:45:28.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-04 08:40:02================================================================ 
+Callback Get Param -  TRANS ID8654934910|| CUS ID 84?client_txn_id=8654934910
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39605006,"customer_vpa":"","amount":500,"client_txn_id":"8654934910","customer_name":"Chandresh cyber cafe","customer_email":"kumarchandresh763@gmail.com","customer_mobile":"9069444174","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=8654934910&cus_id=84","txnAt":"2022-07-04","createdAt":"2022-07-04T03:09:40.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-04 08:40:18================================================================ 
+Callback Get Param -  TRANS ID5572312646|| CUS ID 84?client_txn_id=5572312646
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39605010,"customer_vpa":"","amount":500,"client_txn_id":"5572312646","customer_name":"Chandresh cyber cafe","customer_email":"kumarchandresh763@gmail.com","customer_mobile":"9069444174","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5572312646&cus_id=84","txnAt":"2022-07-04","createdAt":"2022-07-04T03:10:08.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-04 10:12:40================================================================ 
+Callback Get Param -  TRANS ID1778118122|| CUS ID 99?client_txn_id=1778118122
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39606027,"customer_vpa":"gg1399078-2@okhdfcbank","amount":4000,"client_txn_id":"1778118122","customer_name":"airtel","customer_email":"abc@gmail.com","customer_mobile":"9627500241","p_info":"UPI GATEWAY","upi_txn_id":"218550883130","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=1778118122&cus_id=99","txnAt":"2022-07-04","createdAt":"2022-07-04T04:41:42.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-04 14:45:18================================================================ 
+Callback Get Param -  TRANS ID6965687133|| CUS ID 108?client_txn_id=6965687133
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39608495,"customer_vpa":"gg1399078-1@oksbi","amount":500,"client_txn_id":"6965687133","customer_name":"Gopal  Gupta","customer_email":"gopalji123@gmail.com","customer_mobile":"7017525595","p_info":"UPI GATEWAY","upi_txn_id":"218514612504","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6965687133&cus_id=108","txnAt":"2022-07-04","createdAt":"2022-07-04T09:13:30.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-04 16:09:34================================================================ 
+Callback Get Param -  TRANS ID5109910999|| CUS ID 337?client_txn_id=5109910999
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39609095,"customer_vpa":"","amount":500,"client_txn_id":"5109910999","customer_name":"Ankit ","customer_email":"ankitgupta39482@gmail.com","customer_mobile":"7668493876","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5109910999&cus_id=337","txnAt":"2022-07-04","createdAt":"2022-07-04T10:35:57.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-04 19:39:35================================================================ 
+Callback Get Param -  TRANS ID2968526107|| CUS ID 211?client_txn_id=2968526107
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39611612,"customer_vpa":"9084315785@paytm","amount":700,"client_txn_id":"2968526107","customer_name":"Mohammad Rohid","customer_email":"rohid901@gmail.com","customer_mobile":"9084315785","p_info":"UPI GATEWAY","upi_txn_id":"218561922986","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2968526107&cus_id=211","txnAt":"2022-07-04","createdAt":"2022-07-04T14:08:29.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-04 19:55:59================================================================ 
+Callback Get Param -  TRANS ID3553467465|| CUS ID 36?client_txn_id=3553467465
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39611917,"customer_vpa":"","amount":710,"client_txn_id":"3553467465","customer_name":"Prabhakar","customer_email":"palprabhakar7@gmail.com","customer_mobile":"8791497540","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=3553467465&cus_id=36","txnAt":"2022-07-04","createdAt":"2022-07-04T14:25:53.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-04 20:24:52================================================================ 
+Callback Get Param -  TRANS ID1737116221|| CUS ID 82?client_txn_id=1737116221
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39612322,"customer_vpa":"infoeasypayall-1@okicici","amount":100,"client_txn_id":"1737116221","customer_name":"Bhumitech","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"218525027170","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=1737116221&cus_id=82","txnAt":"2022-07-04","createdAt":"2022-07-04T14:53:56.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-05 08:19:19================================================================ 
+Callback Get Param -  TRANS ID3300274869|| CUS ID 250?client_txn_id=3300274869
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39614136,"customer_vpa":"","amount":480,"client_txn_id":"3300274869","customer_name":"Ankit Gupta","customer_email":"ankitkumar969024@gmail.com","customer_mobile":"9690245715","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=3300274869&cus_id=250","txnAt":"2022-07-05","createdAt":"2022-07-05T02:48:43.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-05 10:48:28================================================================ 
+Callback Get Param -  TRANS ID2155993241|| CUS ID 143?client_txn_id=2155993241
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39615836,"customer_vpa":"nitinkumar77946-1@okhdfcbank","amount":1000,"client_txn_id":"2155993241","customer_name":"Nitin kumar","customer_email":"nitinkumar77946@gmail.com","customer_mobile":"9761113877","p_info":"UPI GATEWAY","upi_txn_id":"218670820950","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2155993241&cus_id=143","txnAt":"2022-07-05","createdAt":"2022-07-05T05:17:31.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-05 11:04:54================================================================ 
+Callback Get Param -  TRANS ID2448671314|| CUS ID 107?client_txn_id=2448671314
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39616043,"customer_vpa":"s641133515@okaxis","amount":500,"client_txn_id":"2448671314","customer_name":"Sandeep Kumar","customer_email":"sandeepjiofree@gmail.com","customer_mobile":"9997688686","p_info":"UPI GATEWAY","upi_txn_id":"218620041128","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2448671314&cus_id=107","txnAt":"2022-07-05","createdAt":"2022-07-05T05:33:56.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-05 11:05:34================================================================ 
+Callback Get Param -  TRANS ID9256676410|| CUS ID 250?client_txn_id=9256676410
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39616052,"customer_vpa":"ak6458725@okicici","amount":500,"client_txn_id":"9256676410","customer_name":"Ankit Gupta","customer_email":"ankitkumar969024@gmail.com","customer_mobile":"9690245715","p_info":"UPI GATEWAY","upi_txn_id":"218613236159","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=9256676410&cus_id=250","txnAt":"2022-07-05","createdAt":"2022-07-05T05:34:57.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-06 10:10:50================================================================ 
+Callback Get Param -  TRANS ID5365559594|| CUS ID 187?client_txn_id=5365559594
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39624242,"customer_vpa":"anitayadav249681-1@okaxis","amount":200,"client_txn_id":"5365559594","customer_name":"Anita","customer_email":"anitayadav249681@gmail.com","customer_mobile":"8630209701","p_info":"UPI GATEWAY","upi_txn_id":"218740205742","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5365559594&cus_id=187","txnAt":"2022-07-06","createdAt":"2022-07-06T04:39:59.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-06 14:22:23================================================================ 
+Callback Get Param -  TRANS ID8842476130|| CUS ID 250?client_txn_id=8842476130
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39626634,"customer_vpa":"","amount":400,"client_txn_id":"8842476130","customer_name":"Ankit Gupta","customer_email":"ankitkumar969024@gmail.com","customer_mobile":"9690245715","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=8842476130&cus_id=250","txnAt":"2022-07-06","createdAt":"2022-07-06T08:51:39.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-06 15:17:23================================================================ 
+Callback Get Param -  TRANS ID9308107889|| CUS ID 216?client_txn_id=9308107889
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39627013,"customer_vpa":"","amount":400,"client_txn_id":"9308107889","customer_name":"Narayan sharma","customer_email":"sharamanarayan455@gmail.com","customer_mobile":"7895733652","p_info":"UPI GATEWAY","upi_txn_id":"218767289161","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=9308107889&cus_id=216","txnAt":"2022-07-06","createdAt":"2022-07-06T09:46:32.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-07 20:06:34================================================================ 
+Callback Get Param -  TRANS ID2250196329|| CUS ID 36?client_txn_id=2250196329
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39639218,"customer_vpa":"","amount":180,"client_txn_id":"2250196329","customer_name":"Prabhakar","customer_email":"palprabhakar7@gmail.com","customer_mobile":"8791497540","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2250196329&cus_id=36","txnAt":"2022-07-07","createdAt":"2022-07-07T14:36:06.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-07 20:17:37================================================================ 
+Callback Get Param -  TRANS ID3960280307|| CUS ID 211?client_txn_id=3960280307
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39639347,"customer_vpa":"9084315785@paytm","amount":300,"client_txn_id":"3960280307","customer_name":"Mohammad Rohid","customer_email":"rohid901@gmail.com","customer_mobile":"9084315785","p_info":"UPI GATEWAY","upi_txn_id":"218878166318","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=3960280307&cus_id=211","txnAt":"2022-07-07","createdAt":"2022-07-07T14:46:40.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-08 12:23:22================================================================ 
+Callback Get Param -  TRANS ID6303328033|| CUS ID 256?client_txn_id=6303328033
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39643516,"customer_vpa":"","amount":100,"client_txn_id":"6303328033","customer_name":"Govind Chandpur","customer_email":"1990govindverma@gmail.com","customer_mobile":"9528745089","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6303328033&cus_id=256","txnAt":"2022-07-08","createdAt":"2022-07-08T06:50:04.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-08 12:45:12================================================================ 
+Callback Get Param -  TRANS ID1264475342|| CUS ID 256?client_txn_id=1264475342
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39643717,"customer_vpa":"","amount":1000,"client_txn_id":"1264475342","customer_name":"Govind Chandpur","customer_email":"1990govindverma@gmail.com","customer_mobile":"9528745089","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=1264475342&cus_id=256","txnAt":"2022-07-08","createdAt":"2022-07-08T07:15:03.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-09 11:38:26================================================================ 
+Callback Get Param -  TRANS ID7095545353|| CUS ID 331?client_txn_id=7095545353
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39651723,"customer_vpa":"sudhir-jaiswal@paytm","amount":219,"client_txn_id":"7095545353","customer_name":"Sudhir Jaiswal","customer_email":"sonaliexpressworldwide@gmail.com","customer_mobile":"8700145140","p_info":"UPI GATEWAY","upi_txn_id":"219018695721","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7095545353&cus_id=331","txnAt":"2022-07-09","createdAt":"2022-07-09T06:07:40.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-09 18:53:57================================================================ 
+Callback Get Param -  TRANS ID4953047095|| CUS ID 334?client_txn_id=4953047095
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39655430,"customer_vpa":"","amount":100,"client_txn_id":"4953047095","customer_name":"Praveen Mobile","customer_email":"sameerchaudhary206244@gmail.com","customer_mobile":"7409255640","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=4953047095&cus_id=334","txnAt":"2022-07-09","createdAt":"2022-07-09T13:22:27.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-10 10:10:52================================================================ 
+Callback Get Param -  TRANS ID1045588223|| CUS ID 211?client_txn_id=1045588223
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39659450,"customer_vpa":"9084315785@paytm","amount":300,"client_txn_id":"1045588223","customer_name":"Mohammad Rohid","customer_email":"rohid901@gmail.com","customer_mobile":"9084315785","p_info":"UPI GATEWAY","upi_txn_id":"219112273363","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=1045588223&cus_id=211","txnAt":"2022-07-10","createdAt":"2022-07-10T04:39:56.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-10 18:50:00================================================================ 
+Callback Get Param -  TRANS ID3781427722|| CUS ID 223?client_txn_id=3781427722
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39663564,"customer_vpa":"","amount":500,"client_txn_id":"3781427722","customer_name":"vikash kumar","customer_email":"yadavvikash2340@gmail.com","customer_mobile":"9627764466","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=3781427722&cus_id=223","txnAt":"2022-07-10","createdAt":"2022-07-10T13:19:50.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-11 06:32:15================================================================ 
+Callback Get Param -  TRANS ID1680805333|| CUS ID 361?client_txn_id=1680805333
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39665721,"customer_vpa":"","amount":200,"client_txn_id":"1680805333","customer_name":"Saksham dixit","customer_email":"raj79di@gmail.com","customer_mobile":"9027428010","p_info":"UPI GATEWAY","upi_txn_id":"219288004312","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=1680805333&cus_id=361","txnAt":"2022-07-11","createdAt":"2022-07-11T01:01:19.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-11 17:53:21================================================================ 
+Callback Get Param -  TRANS ID5846477082|| CUS ID 127?client_txn_id=5846477082
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39671626,"customer_vpa":"","amount":100,"client_txn_id":"5846477082","customer_name":"himanshu","customer_email":"ankitguptaup10@gmail.com","customer_mobile":"7668777362","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5846477082&cus_id=127","txnAt":"2022-07-11","createdAt":"2022-07-11T12:23:01.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-12 07:21:33================================================================ 
+Callback Get Param -  TRANS ID5416513892|| CUS ID 368?client_txn_id=5416513892
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39675322,"customer_vpa":"","amount":100,"client_txn_id":"5416513892","customer_name":"Maneesh kumar","customer_email":"mnishad293@gmail.com","customer_mobile":"9675858304","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5416513892&cus_id=368","txnAt":"2022-07-12","createdAt":"2022-07-12T01:51:22.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-13 16:44:34================================================================ 
+Callback Get Param -  TRANS ID6766978847|| CUS ID 368?client_txn_id=6766978847
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39689282,"customer_vpa":"mnishad293-3@oksbi","amount":100,"client_txn_id":"6766978847","customer_name":"Maneesh kumar","customer_email":"mnishad293@gmail.com","customer_mobile":"9675858304","p_info":"UPI GATEWAY","upi_txn_id":"219416549836","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6766978847&cus_id=368","txnAt":"2022-07-13","createdAt":"2022-07-13T11:13:33.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-13 16:51:17================================================================ 
+Callback Get Param -  TRANS ID7176123393|| CUS ID 368?client_txn_id=7176123393
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39689327,"customer_vpa":"mnishad293-3@oksbi","amount":100,"client_txn_id":"7176123393","customer_name":"Maneesh kumar","customer_email":"mnishad293@gmail.com","customer_mobile":"9675858304","p_info":"UPI GATEWAY","upi_txn_id":"219416714109","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7176123393&cus_id=368","txnAt":"2022-07-13","createdAt":"2022-07-13T11:20:20.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-13 23:01:52================================================================ 
+Callback Get Param -  TRANS ID5518260232|| CUS ID 337?client_txn_id=5518260232
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39692957,"customer_vpa":"","amount":100,"client_txn_id":"5518260232","customer_name":"Ankit ","customer_email":"ankitgupta39482@gmail.com","customer_mobile":"7668493876","p_info":"UPI GATEWAY","upi_txn_id":"219489158653","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5518260232&cus_id=337","txnAt":"2022-07-13","createdAt":"2022-07-13T17:30:41.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-14 09:49:14================================================================ 
+Callback Get Param -  TRANS ID6767471971|| CUS ID 256?client_txn_id=6767471971
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39694640,"customer_vpa":"","amount":1000,"client_txn_id":"6767471971","customer_name":"Govind Chandpur","customer_email":"1990govindverma@gmail.com","customer_mobile":"9528745089","p_info":"UPI GATEWAY","upi_txn_id":"","status":"failure","remark":"Transaction cancel by Payee","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6767471971&cus_id=256","txnAt":"2022-07-14","createdAt":"2022-07-14T04:19:07.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-16 08:52:01================================================================ 
+Callback Get Param -  TRANS ID6681633986|| CUS ID 165?client_txn_id=6681633986
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39715630,"customer_vpa":"9045040075@upi","amount":650,"client_txn_id":"6681633986","customer_name":"Sourabh online centre","customer_email":"saurabh2pal@gmail.com","customer_mobile":"9045040075","p_info":"UPI GATEWAY","upi_txn_id":"219708265082","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6681633986&cus_id=165","txnAt":"2022-07-16","createdAt":"2022-07-16T03:20:32.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-16 08:56:10================================================================ 
+Callback Get Param -  TRANS ID2350080060|| CUS ID 165?client_txn_id=2350080060
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39715685,"customer_vpa":"9045040075@upi","amount":110,"client_txn_id":"2350080060","customer_name":"Sourabh online centre","customer_email":"saurabh2pal@gmail.com","customer_mobile":"9045040075","p_info":"UPI GATEWAY","upi_txn_id":"219708266952","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2350080060&cus_id=165","txnAt":"2022-07-16","createdAt":"2022-07-16T03:25:15.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-17 19:32:28================================================================ 
+Callback Get Param -  TRANS ID2182285406|| CUS ID 104?client_txn_id=2182285406
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39733958,"customer_vpa":"rahul0354@paytm","amount":100,"client_txn_id":"2182285406","customer_name":"Rahul kumar","customer_email":"rahulvarma065@gmail.com","customer_mobile":"8192930354","p_info":"UPI GATEWAY","upi_txn_id":"219865638058","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=2182285406&cus_id=104","txnAt":"2022-07-17","createdAt":"2022-07-17T14:01:28.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-18 15:02:25================================================================ 
+Callback Get Param -  TRANS ID6728215931|| CUS ID 82?client_txn_id=6728215931
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39740987,"customer_vpa":"infoeasypayall-1@okicici","amount":100,"client_txn_id":"6728215931","customer_name":"Easypayall ","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"219954755451","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=6728215931&cus_id=82","txnAt":"2022-07-18","createdAt":"2022-07-18T09:31:28.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-18 21:40:53================================================================ 
+Callback Get Param -  TRANS ID8572250304|| CUS ID 406?client_txn_id=8572250304
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39745178,"customer_vpa":"amzn0007476651@apl","amount":100,"client_txn_id":"8572250304","customer_name":"Test1","customer_email":"test@gmail.com","customer_mobile":"7820011459","p_info":"UPI GATEWAY","upi_txn_id":"219925059628","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=8572250304&cus_id=406","txnAt":"2022-07-18","createdAt":"2022-07-18T16:09:59.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-19 07:37:38================================================================ 
+Callback Get Param -  TRANS ID5566751942|| CUS ID 407?client_txn_id=5566751942
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39745983,"customer_vpa":"infoeasypayall-1@okicici","amount":100,"client_txn_id":"5566751942","customer_name":"Test","customer_email":"test@gmail.com","customer_mobile":"7820011459","p_info":"UPI GATEWAY","upi_txn_id":"220041769778","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5566751942&cus_id=407","txnAt":"2022-07-19","createdAt":"2022-07-19T02:06:43.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-19 17:44:53================================================================ 
+Callback Get Param -  TRANS ID4469932723|| CUS ID 216?client_txn_id=4469932723
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39751520,"customer_vpa":"sharmanarayan455@okaxis","amount":1000,"client_txn_id":"4469932723","customer_name":"Narayan sharma","customer_email":"sharamanarayan455@gmail.com","customer_mobile":"7895733652","p_info":"UPI GATEWAY","upi_txn_id":"220043445077","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=4469932723&cus_id=216","txnAt":"2022-07-19","createdAt":"2022-07-19T12:13:15.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-22 09:03:52================================================================ 
+Callback Get Param -  TRANS ID7823160907|| CUS ID 82?client_txn_id=7823160907
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39776165,"customer_vpa":"infoeasypayall-1@okicici","amount":100,"client_txn_id":"7823160907","customer_name":"Easypayall ","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"220389140854","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=7823160907&cus_id=82","txnAt":"2022-07-22","createdAt":"2022-07-22T03:32:52.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+
+
+
+GUID - 2022-07-22 09:05:04================================================================ 
+Callback Get Param -  TRANS ID5427921095|| CUS ID 82?client_txn_id=5427921095
+
+STATUS RESPONSE - {"status":true,"msg":"Transaction found","data":{"id":39776179,"customer_vpa":"amzn0007476651@apl","amount":100,"client_txn_id":"5427921095","customer_name":"Easypayall ","customer_email":"bhumitechinsurance@gmail.com","customer_mobile":"8630450571","p_info":"UPI GATEWAY","upi_txn_id":"220347852123","status":"success","remark":"","udf1":"","udf2":"","udf3":"","redirect_url":"https:\/\/easypayall.in\/api_callback\/upigateway_callback?trx_id=5427921095&cus_id=82","txnAt":"2022-07-22","createdAt":"2022-07-22T03:34:08.000Z","Merchant":{"name":"Easypayall","upi_id":"Q674783600@ybl"}}}
+

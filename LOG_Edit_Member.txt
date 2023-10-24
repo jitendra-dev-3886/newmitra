@@ -1,0 +1,88 @@
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-06-30 11:52:24
+
+ Edited Data :- {"cus_mobile":"95fb042615f5004a7671b5b754e59a1e","cus_name":"MINHAZ","cus_email":"monajalam93@gmail.com","cus_outlate":"49 shop ","cus_address":"Bihar","scheme_id":"9","cus_ip":"6181","limit_amount":"100"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-06-30 13:15:19
+
+ Edited Data :- {"cus_mobile":"8d1c1fd42cf4dd2fdf9ec59821d3ec4e","cus_name":"RAMESH KUMAR DUBEY","cus_email":"dubeyrameshkumar873@gmail.com","cus_outlate":"test","cus_address":"test","scheme_id":"9","cus_ip":"00000","limit_amount":"500"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-07-01 09:33:48
+
+ Edited Data :- {"cus_mobile":"d34da824fb63318f60b729da82013855","cus_name":"Satmat","cus_email":"test@mail.com","cus_outlate":"test","cus_address":"test","scheme_id":"9","cus_ip":"0","limit_amount":"500"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-07-01 11:18:37
+
+ Edited Data :- {"cus_mobile":"d34da824fb63318f60b729da82013855","cus_name":"Satmat","cus_email":"test@mail.com","cus_outlate":"test","cus_address":"test","scheme_id":"9","cus_ip":"0","limit_amount":"0"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-07-18 11:51:50
+
+ Edited Data :- {"cus_mobile":"c738a30b52b0e362408be14323f4155c","cus_name":"SatmatUser","cus_email":"testuser@gmail.com","cus_outlate":"Satmat Technologies","cus_address":"Pune","scheme_id":"9","cus_ip":"0","limit_amount":"0"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-07-20 18:08:55
+
+ Edited Data :- {"cus_mobile":"3915f918f48ad293ccaa60c313a22982","cus_name":"PRINCE KUMAR","cus_email":"princepashil@gmail.com","cus_outlate":"99 SHOP","cus_address":"MP","scheme_id":"9","cus_ip":"7777","limit_amount":"11"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-07-24 18:39:53
+
+ Edited Data :- {"cus_mobile":"16d3e17e55a8cef589abeaaf714cb7f6","cus_name":"Rupesh kumar","cus_email":"rk2322168@gmail.com","cus_outlate":"49 shop","cus_address":"MOTIHARI","scheme_id":"9","cus_ip":"544677","limit_amount":"11"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-08-16 20:46:33
+
+ Edited Data :- {"cus_mobile":"49e3fcfc500bc89a28973d6545a3a443","cus_name":"RAHUL SARMA","cus_email":"rahulsharma66001@gmail.com","cus_outlate":"399 shop","cus_address":"Rohtash","scheme_id":"9","cus_ip":"6555","limit_amount":"5000000"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-09-18 14:00:55
+
+ Edited Data :- {"cus_mobile":"0183bcb85d162588c872ceb31d3a8e2b","cus_name":"Hhhkk","cus_email":"yhkkoyyhj@gmail.com","cus_outlate":"H","cus_address":"Hjj","scheme_id":"9","cus_ip":"667","limit_amount":"500"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-09-25 21:29:20
+
+ Edited Data :- {"cus_mobile":"5e530bfef976a6a52e96dfed6470d26b","cus_name":"Jitendra ","cus_email":"jk173886@gmail.com","cus_outlate":"Antu Web Solutions","cus_address":"Indirapuram, Ghaziabad","scheme_id":"9","cus_ip":"116.75.246.68","limit_amount":"500"}
+
+
+
+********************************************Edit Member Details**********************************************************
+
+ DATE-TIME :- 2023-09-25 21:30:31
+
+ Edited Data :- {"cus_mobile":"5e530bfef976a6a52e96dfed6470d26b","cus_name":"Jitendra ","cus_email":"jk173886@gmail.com","cus_outlate":"Antu Web Solutions","cus_address":"Indirapuram, Ghaziabad\r\n201010","scheme_id":"9","cus_ip":"116.75.246.68","limit_amount":"500"}
+

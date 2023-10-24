@@ -1,0 +1,7 @@
+Options -Indexes
+
+DirectoryIndex client-orders.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine off
+</IfModule>
